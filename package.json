@@ -2,7 +2,7 @@
   "dependencies": {
     "@aaxis/auth0-spa-js": "^1.0.5"
   },
-  "name": "node-demo",
+  "name": "kala-node-demo",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
